@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pay Equity Now — a federal pay-equity policy campaign</title>
+<style>
+  :root {
+    --navy: #1b2a4a;
+    --gold: #c9922b;
+    --ink: #1b2a4a;
+    --paper: #faf8f4;
+    --card: #ffffff;
+    --line: #e4ddcf;
+    --muted: #5b6478;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: 'Georgia', 'Iowan Old Style', serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.55;
+  }
+  header.hero {
+    background: linear-gradient(160deg, var(--navy), #101c36);
+    color: #f2efe6;
+    padding: 3.5rem 1.5rem 4rem;
+    text-align: center;
+  }
+  .wordmark {
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: var(--gold);
+    font-family: Helvetica, Arial, sans-serif;
+    margin-bottom: 1rem;
+  }
+  .hero h1 {
+    font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+    max-width: 42rem;
+    margin: 0 auto 1.25rem;
+  }
+  .hero p.sub {
+    max-width: 36rem;
+    margin: 0 auto 2rem;
+    color: #cfd4e2;
+    font-size: 1.05rem;
+  }
+  .stat-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    max-width: 60rem;
+    margin: 0 auto;
+  }
+  .stat {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(201,146,43,0.4);
+    border-radius: 10px;
+    padding: 1.25rem 1.5rem;
+    min-width: 13rem;
+    max-width: 16rem;
+  }
+  .stat .num {
+    font-size: 2.1rem;
+    font-weight: bold;
+    color: var(--gold);
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  .stat .label { font-size: 0.92rem; color: #e4e7f0; margin: 0.2rem 0 0.5rem; }
+  .stat cite {
+    display: block;
+    font-style: normal;
+    font-size: 0.75rem;
+    color: #9aa4bd;
+  }
+  .stat cite a { color: #b9c2da; }
+
+  main { max-width: 48rem; margin: 0 auto; padding: 0 1.5rem; }
+
+  section { padding: 3rem 0; border-bottom: 1px solid var(--line); }
+  section:last-of-type { border-bottom: none; }
+
+  h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.95rem;
+    color: var(--gold);
+    margin-bottom: 0.5rem;
+  }
+  h3.section-title {
+    font-size: 1.6rem;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+  }
+
+  .causes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    gap: 1.25rem;
+  }
+  .cause {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 1.25rem 1.4rem;
+  }
+  .cause h4 {
+    margin: 0 0 0.5rem;
+    font-size: 1.05rem;
+  }
+  .cause p { font-size: 0.95rem; color: #333; margin: 0 0 0.6rem; }
+  .cite {
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+  .cite a { color: var(--muted); }
+
+  .ask-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 1rem;
+  }
+  .ask-list li {
+    background: var(--card);
+    border-left: 4px solid var(--gold);
+    border-radius: 4px;
+    padding: 1rem 1.25rem;
+  }
+  .ask-list strong { display: block; margin-bottom: 0.25rem; }
+  .ask-list span.reason { font-size: 0.85rem; color: var(--muted); }
+
+  .how-it-works ol {
+    padding-left: 1.2rem;
+  }
+  .how-it-works li { margin-bottom: 0.75rem; }
+
+  .not-list {
+    columns: 2;
+    column-gap: 2rem;
+    padding-left: 1.1rem;
+    font-size: 0.95rem;
+    color: #333;
+  }
+  .not-list li { break-inside: avoid; margin-bottom: 0.6rem; }
+
+  .gap-box {
+    background: #fff7e8;
+    border: 1px solid #e6cf9a;
+    border-radius: 8px;
+    padding: 1.1rem 1.3rem;
+    font-size: 0.95rem;
+  }
+
+  footer {
+    background: var(--navy);
+    color: #cfd4e2;
+    padding: 2.5rem 1.5rem 3rem;
+    margin-top: 2rem;
+  }
+  footer .wrap { max-width: 48rem; margin: 0 auto; }
+  footer h2 { color: var(--gold); }
+  footer ul { padding-left: 1.1rem; font-size: 0.9rem; }
+  footer a { color: #d9c896; }
+  footer p.fine { font-size: 0.8rem; color: #8b93aa; margin-top: 2rem; }
+
+  @media (max-width: 640px) {
+    .not-list { columns: 1; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wordmark">A concept, not yet founded</div>
+  <h1>One federal package to close the pay gap — because the causes are known, and none of them are being fixed at once.</h1>
+  <p class="sub">A policy advocacy nonprofit pushing a single federal legislative package that answers all three documented causes of the U.S. gender pay gap — not just one.</p>
+
+  <div class="stat-row">
+    <div class="stat">
+      <div class="num">85%</div>
+      <div class="label">of what men earned, women earned in 2024 (hourly, full &amp; part-time workers)</div>
+      <cite><a href="sources/us-gender-pay-gap-pew.md">Pew Research, 2025</a></cite>
+    </div>
+    <div class="stat">
+      <div class="num">82&cent;</div>
+      <div class="label">per dollar in 2022, vs. 80&cent; in 2002 — a different measure, essentially flat for 20 years</div>
+      <cite><a href="sources/us-gender-pay-gap-pew.md">Pew Research, 2023</a></cite>
+    </div>
+    <div class="stat">
+      <div class="num">95&cent;</div>
+      <div class="label">per dollar for women aged 25&ndash;34 in 2024 — the gap narrows sharply by age</div>
+      <cite><a href="sources/us-gender-pay-gap-pew.md">Pew Research, 2025</a></cite>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <section id="causes">
+    <h2>The problem</h2>
+    <h3 class="section-title">Three documented causes. We're not picking one.</h3>
+    <div class="causes">
+      <div class="cause">
+        <h4>Caregiving &amp; time out of the workforce</h4>
+        <p>Not a simple &ldquo;motherhood penalty&rdquo; &mdash; once education is controlled for, the raw mother/non-mother pay gap is <em>&ldquo;driven mainly by differences in educational attainment.&rdquo;</em> What's real: younger mothers work <strong>two fewer hours per week</strong> on average, and fathers get a <strong>&ldquo;fatherhood wage premium&rdquo;</strong> that education alone doesn't explain.</p>
+        <p class="cite">— <a href="sources/us-gender-pay-gap-pew.md">Pew Research</a></p>
+      </div>
+      <div class="cause">
+        <h4>Occupational segregation</h4>
+        <p>Women are <strong>underrepresented in managerial and STEM occupations</strong> and <strong>overrepresented in education, health care, and personal care/services</strong> &mdash; fields that pay less.</p>
+        <p class="cite">— <a href="sources/us-gender-pay-gap-pew.md">Pew Research</a></p>
+      </div>
+      <div class="cause">
+        <h4>Discrimination &amp; unconscious bias</h4>
+        <p>Researchers have <strong>&ldquo;uncovered new evidence of hiring discrimination,&rdquo;</strong> named as a &ldquo;last-mile hurdle&rdquo; &mdash; though Pew is explicit these factors remain <strong>&ldquo;difficult to quantify.&rdquo;</strong></p>
+        <p class="cite">— <a href="sources/us-gender-pay-gap-pew.md">Pew Research</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="ask">
+    <h2>The ask</h2>
+    <h3 class="section-title">One package. Three parts. Matched to the causes above.</h3>
+    <ul class="ask-list">
+      <li>
+        <strong>Caregiving support</strong>
+        <span class="reason">Answers cause #1 &mdash; addresses reduced hours during caregiving years and the unmatched fatherhood wage premium.</span>
+      </li>
+      <li>
+        <strong>Incentives into higher-paying fields</strong>
+        <span class="reason">Answers cause #2 &mdash; occupational segregation into lower-paying, female-dominated fields.</span>
+      </li>
+      <li>
+        <strong>Pay transparency &amp; disaggregated reporting requirements</strong>
+        <span class="reason">Answers cause #3 &mdash; discrimination that's hard to prove without better data. Mirrors a reform Korea is currently debating (not a U.S. precedent) &mdash; <a href="sources/korea-gender-pay-gap.md">Korea Times</a>.</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="how-it-works">
+    <h2>How it works</h2>
+    <h3 class="section-title">Federal level. No lobbyists of our own.</h3>
+    <ol>
+      <li><strong>Research</strong> &mdash; translate data like Pew's into concrete policy language, one proposal per cause.</li>
+      <li><strong>Coalition-building</strong> &mdash; recruit nonprofits, unions, and companies to publicly co-sign the package, adding political weight without hiring lobbyists.</li>
+      <li><strong>Public campaign</strong> &mdash; media, social, and grassroots pressure aimed at voters and press, so coalition partners carry the direct legislative engagement.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>What this isn't</h2>
+    <h3 class="section-title">Deliberately left out</h3>
+    <ul class="not-list">
+      <li>Direct lobbying &mdash; no congressional meetings or testimony run by us.</li>
+      <li>State-level policy work &mdash; federal only, even as a proof-of-concept path.</li>
+      <li>International/comparative policy work &mdash; Korea's reform debate is background, not something we act on.</li>
+      <li>Direct services to women &mdash; no job training or legal aid. Policy and advocacy only.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Open gap</h2>
+    <div class="gap-box">
+      No source we've found measures whether caregiving support, occupational-segregation incentives, or pay transparency actually <em>moves</em> the U.S. pay gap. The case for this package currently rests on Pew's diagnosis of the causes &mdash; not on evidence that these specific interventions fix them.
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <h2>Sources</h2>
+    <ul>
+      <li><a href="sources/us-gender-pay-gap-pew.md">Pew Research Center</a> &mdash; U.S. gender pay gap figures and the three named causes</li>
+      <li><a href="sources/korea-gender-pay-gap.md">The Korea Times</a> &mdash; Korea's pay-transparency reform debate, cited as a policy model only</li>
+    </ul>
+    <p class="fine">Every number on this page links to the source file it came from, in <code>sources/</code>. No figure here is invented.</p>
+  </div>
+</footer>
+
+</body>
+</html>
