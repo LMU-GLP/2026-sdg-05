@@ -28,9 +28,10 @@ directly sets their advocacy agenda.
 **No hard statistic.** This is a landscape and methods source, not a data
 source. It tells you who is already working on this in LA and how they gather
 evidence — which matters, because it stops the team from building something that
-already exists. **Finding an LA-specific number is this team's first job in
-Friday's source sprint.** Start with "AFG in LA County: The First Years" and the
-asset map, both linked above.
+already exists. **Finding an LA-specific number is this team's first job on
+Friday.** When you read your wiki, if there's no local figure in it, ask Claude
+for one directly. Start with "AFG in LA County: The First Years" and the asset
+map, both linked above.
 
 Also note: the LA County Women and Girls Initiative, which would be the obvious
 government source, **sunset on June 30, 2024** after eight years. Its reports
