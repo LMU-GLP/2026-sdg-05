@@ -20,8 +20,8 @@ in its top-right corner.
 
 - `CLAUDE.md` — the rules Claude follows in this repo
 - `sources/` — two sources we found for you. Read both before you pick a region:
-- [Los Angeles](sources/la-girls-research.md)
-- [South Korea](sources/korea-gender-pay-gap.md)
+  - [Los Angeles](sources/la-girls-research.md)
+  - [South Korea](sources/korea-gender-pay-gap.md)
 - UN targets for your goal: [sdgs.un.org/goals/goal5](https://sdgs.un.org/goals/goal5)
 
 ## What Claude Code is
