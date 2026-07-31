@@ -1,44 +1,55 @@
 # Problem statement
 
-**Region:** United States, broadly — not Los Angeles or South Korea
-specifically (see [Comparison: LA vs. South Korea](comparison-la-vs-south-korea.md)
-for why neither region has a matching local figure).
+**This replaces an earlier draft of this page**, which focused on U.S.
+9th-grade girls' confidence. The team pivoted to the gender pay gap as the
+problem it wants to build a solution for.
 
-**Who:** 9th-grade girls — the single lowest point of self-reported
-confidence of any surveyed grade.
+**Region:** United States.
 
-**How many:** Not sourced. No source states a total U.S. population of
-9th-grade girls or how many are affected. The only scale figure we have is
-the survey's own sample — more than 17,500 girls, grades 5–12 — which
-describes who was surveyed, not the size of the affected population.
-**This is a gap, not a figure to guess at.**
-[ROX Girls' Index](../sources/rox-girls-index-confidence-data.md)
+**Who:** Working women in the U.S., broadly.
 
 ## The evidence
 
-- Self-reported confidence among American girls fell from **68% (2017) to
-  55% (2023)**. 9th grade hit the lowest point of any grade — **50% (2023),
-  down from 60% (2017)** — a steeper drop than 12th grade, which held flat
-  at 62%. [ROX Girls' Index](../sources/rox-girls-index-confidence-data.md)
-- A related but **different measurement**: women hold only **35%** of the
-  STEM workforce despite earning half of science/engineering degrees. This
-  is adult workforce representation, not girls' confidence, so it's parallel
-  evidence, not a number to combine with the confidence figures.
-  [Girls Inc. of Los Angeles](../sources/girls-inc-los-angeles.md)
+Pew Research measures the gap two different ways, and the two figures are
+**not directly comparable — do not average them:**
 
-## Who's already responding
+- Using **median hourly earnings of full- and part-time workers** (2024):
+  women earned **85%** of what men earned — a 15-cent gap.
+  [Pew — U.S. gender pay gap](../sources/us-gender-pay-gap-pew.md)
+- Using a different measure reported in Pew's 2023 report: women earned
+  **"82 cents for every dollar earned by men"** in 2022, versus **"80 cents
+  to the dollar"** in 2002 — essentially flat over two decades on that
+  measure. [Pew — U.S. gender pay gap](../sources/us-gender-pay-gap-pew.md)
+- The gap narrows sharply for younger workers: women aged 25–34 earned
+  **95 cents for every dollar** earned by a man in the same age group in
+  2024 — a 5-cent gap, well below the all-worker figure.
+  [Pew — U.S. gender pay gap](../sources/us-gender-pay-gap-pew.md)
 
-Los Angeles has two organizations working on pieces of this problem:
-**Girls Inc. of Los Angeles**, mentoring **2,600+ girls/year** across 12
-LAUSD campuses in South LA, Watts, and Venice (and citing this same 68%→55%
-decline as its own rationale), and **Alliance for Girls**, which runs
-youth-participatory research in LA County.
-[Girls Inc. of Los Angeles](../sources/girls-inc-los-angeles.md),
-[Alliance for Girls](../sources/la-girls-research.md)
+## Three reasons, per this source
 
-Both are **local responses to a national problem** — a few thousand girls
-in a few LA neighborhoods, not national coverage. This wiki has no source
-describing an equivalent response anywhere else in the country, and no
-source at all on girls or youth in South Korea (only Korea's adult gender
-pay gap, a different measurement in a region we aren't committing to).
-[Korea Times](../sources/korea-gender-pay-gap.md)
+1. **Caregiving and time out of the workforce** — not simply a "motherhood
+   penalty": Pew found the raw mother/non-mother earnings gap **"is driven
+   mainly by differences in educational attainment,"** not motherhood
+   itself, once education is controlled for. What is real: younger mothers
+   work **"a shorter workweek – by two hours per week, on average,"** and
+   fathers get a **"fatherhood wage premium"** that isn't explained by
+   education the same way. [Pew — U.S. gender pay gap](../sources/us-gender-pay-gap-pew.md)
+2. **Occupational segregation** — women are **"underrepresented in
+   managerial and STEM occupations"** and **"overrepresented in education,
+   health care, and personal care and services occupations"** — fields that
+   pay less. [Pew — U.S. gender pay gap](../sources/us-gender-pay-gap-pew.md)
+3. **Discrimination / unconscious bias** — researchers **"have uncovered new
+   evidence of hiring discrimination,"** and Pew names **"gender stereotypes
+   and discrimination"** as **"last-mile hurdles,"** but is explicit these
+   are **"difficult to quantify."** [Pew — U.S. gender pay gap](../sources/us-gender-pay-gap-pew.md)
+
+## What this wiki doesn't have
+
+No source here measures how a specific U.S. federal policy (paid leave, pay
+transparency, or otherwise) would move any of these figures — that evidence
+doesn't exist in our sources yet. The wiki's only other pay-gap source is
+Korea's ([Korea Times](../sources/korea-gender-pay-gap.md), a **29.3%** gap,
+worst in the OECD), which describes a proposed transparency reform modeled
+on the UK, France, Germany, and Norway. That is background on what other
+countries have tried, not a U.S. figure, and not directly comparable to the
+Pew numbers above since it's a different country measured a different way.
