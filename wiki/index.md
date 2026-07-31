@@ -8,6 +8,7 @@ toward.
 
 | Page | What's on it |
 |---|---|
+| [Problem statement](problem-statement.md) | The region, population, and evidence this team is committing to: U.S. 9th-grade girls' confidence, with LA as the one local response we have evidence for |
 | [Overview](overview.md) | Synthesis of everything below: what the evidence says, and the three gaps this team still needs to fill |
 | [UN SDG 5 targets](un-sdg5-targets.md) | The UN's official targets for this goal, and which two map onto this team's challenge |
 | [Girls' confidence data](girls-confidence-data.md) | The one dataset with real figures on girls' confidence (national U.S., 2017–2023) — and where it does and doesn't apply |
