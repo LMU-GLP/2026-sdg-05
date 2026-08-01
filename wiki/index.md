@@ -15,6 +15,7 @@ Start with [Overview](overview.md).
 | [Who the gap hits hardest](who-it-hits-hardest.md) | Breakdown by race/ethnicity and age, from three sources that agree on direction but not magnitude |
 | [Root causes](root-causes.md) | Why the gap isn't zero even after controlling for job title: occupational segregation, caregiving, workplace inflexibility |
 | [Existing solutions](existing-solutions.md) | What's already running (a training program, state transparency laws), what's stalled (federal law), and what's just a named wish-list |
+| [Policy report: complementary solutions](policy-report.md) | Past and present US policy for each root cause, and a proposed complement for each |
 | [Where this fits SDG 5](sdg5-fit.md) | Why the UN's own Target 5.a doesn't measure pay, and which target actually fits |
 
 ## Sources this wiki is built from
@@ -29,3 +30,12 @@ Start with [Overview](overview.md).
 | [pay-transparency-laws-2026.md](../sources/pay-transparency-laws-2026.md) | CompPort — state-by-state pay transparency laws |
 | [un-sdg5-target-5a-economic-resources.md](../sources/un-sdg5-target-5a-economic-resources.md) | UN — official SDG 5 targets 5.a and 5.1 |
 | [aauw-causes-report-2025.md](../sources/aauw-causes-report-2025.md) | AAUW — named root causes and a fourth, disagreeing set of overall figures |
+| [bls-womens-earnings-2026.md](../sources/bls-womens-earnings-2026.md) | BLS — official Q2 2026 earnings ratio and a headcount of full-time women workers |
+| [dol-womens-bureau-occupational-segregation.md](../sources/dol-womens-bureau-occupational-segregation.md) | DOL Women's Bureau — names occupational segregation the largest cause |
+| [dol-fmla-basics.md](../sources/dol-fmla-basics.md) | DOL — FMLA (1993) leave guarantee and eligibility rules |
+| [fmla-1993-coverage-gaps.md](../sources/fmla-1993-coverage-gaps.md) | Wikipedia — FMLA signing date and historical coverage-gap figures |
+| [bipartisan-policy-state-paid-leave-2026.md](../sources/bipartisan-policy-state-paid-leave-2026.md) | Bipartisan Policy Center — state paid family leave laws, 2026 |
+| [bipartisan-policy-more-paid-leave-act-2026.md](../sources/bipartisan-policy-more-paid-leave-act-2026.md) | Bipartisan Policy Center — 2026 federal paid-leave grant bill |
+| [dol-pump-act.md](../sources/dol-pump-act.md) | DOL — PUMP Act (2022), pumping breaks and space |
+| [pwfa-pregnant-workers-fairness-act.md](../sources/pwfa-pregnant-workers-fairness-act.md) | A Better Balance — Pregnant Workers Fairness Act (2023) |
+| [sf-family-friendly-workplace-ordinance.md](../sources/sf-family-friendly-workplace-ordinance.md) | D.Law — San Francisco's local right-to-request-flexibility ordinance |
