@@ -1,9 +1,9 @@
 # Who the pay gap hits hardest
 
-Both sources with race/ethnicity breakdowns agree on the ordering — white
-men earn most, then white women, then women of color, with Latina and
-Native American women worst off — but they disagree on the exact cents, so
-both are kept here rather than merged.
+Three sources in this wiki have race/ethnicity breakdowns. All three agree
+on the ordering — white men earn most, then white women, then women of
+color, with Latina and Native American women worst off — but they disagree
+on the exact cents, so all three are kept here rather than merged.
 
 ## Payscale 2026 (uncontrolled, relative to white men)
 
@@ -29,6 +29,16 @@ both are kept here rather than merged.
 
 [National Partnership](../sources/national-partnership-wage-gap-2026.md)
 
+## AAUW causes report (2025)
+
+| Group | Full-time, year-round | All workers (incl. part-time/seasonal) |
+|---|---|---|
+| Black women | 66 cents | 64 cents |
+| Latina/Native American women | 58 cents | — |
+| Latina women | — | 51 cents |
+
+[AAUW causes report](../sources/aauw-causes-report-2025.md)
+
 **Why these don't match:** different baseline years, different survey
 methods, and Payscale controls for job title/seniority in one of its two
 columns while National Partnership's figures are uncontrolled throughout.
@@ -42,4 +52,5 @@ for the *same* job so much as they're underrepresented in the higher-paid
 jobs and levels by the time they're older.
 [Payscale 2026](../sources/payscale-2026-gender-pay-gap-report.md)
 
-See also: [US pay gap: the numbers](us-pay-gap-numbers.md).
+See also: [US pay gap: the numbers](us-pay-gap-numbers.md),
+[Root causes](root-causes.md).

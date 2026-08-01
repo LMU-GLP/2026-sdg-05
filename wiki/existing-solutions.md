@@ -36,6 +36,16 @@ June 2021, and as of a 2026 industry summary still has not passed at the
 federal level.
 [AAUW: Paycheck Fairness Act](../sources/aauw-paycheck-fairness-act.md)
 
+## Named but undetailed policy directions (not yet a program or bill)
+
+A separate AAUW report names five further directions without describing a
+mechanism for any of them: strengthening pay equity laws, reducing barriers
+to college degrees, expanding childcare access, implementing paid leave, and
+protecting reproductive health access.
+[AAUW causes report](../sources/aauw-causes-report-2025.md) These are causes
+turned into wish-list solutions, not running programs or bills like the
+three above — see [Root causes](root-causes.md) for why each is named.
+
 ## What this means for a new solution
 
 The individual-skills approach (Work Smart) and the state-policy approach
@@ -45,4 +55,5 @@ for at least seven years. A new solution has room to work in either lane:
 help more individuals directly, or push transparency into more states/employers,
 rather than waiting on federal action.
 
-See also: [US pay gap: the numbers](us-pay-gap-numbers.md).
+See also: [US pay gap: the numbers](us-pay-gap-numbers.md),
+[Root causes](root-causes.md).

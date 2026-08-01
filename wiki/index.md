@@ -12,8 +12,9 @@ Start with [Overview](overview.md).
 |---|---|
 | [Overview](overview.md) | Synthesis of everything below, and the gaps this team still needs to fill |
 | [US pay gap: the numbers](us-pay-gap-numbers.md) | Why three sources give three different overall figures, and what each actually measures |
-| [Who the gap hits hardest](who-it-hits-hardest.md) | Breakdown by race/ethnicity and age, from two sources that agree on direction but not magnitude |
-| [Existing solutions](existing-solutions.md) | What's already running (a training program, state transparency laws) and what's stalled (federal law) |
+| [Who the gap hits hardest](who-it-hits-hardest.md) | Breakdown by race/ethnicity and age, from three sources that agree on direction but not magnitude |
+| [Root causes](root-causes.md) | Why the gap isn't zero even after controlling for job title: occupational segregation, caregiving, workplace inflexibility |
+| [Existing solutions](existing-solutions.md) | What's already running (a training program, state transparency laws), what's stalled (federal law), and what's just a named wish-list |
 | [Where this fits SDG 5](sdg5-fit.md) | Why the UN's own Target 5.a doesn't measure pay, and which target actually fits |
 
 ## Sources this wiki is built from
@@ -27,3 +28,4 @@ Start with [Overview](overview.md).
 | [aauw-paycheck-fairness-act.md](../sources/aauw-paycheck-fairness-act.md) | AAUW — stalled federal legislation |
 | [pay-transparency-laws-2026.md](../sources/pay-transparency-laws-2026.md) | CompPort — state-by-state pay transparency laws |
 | [un-sdg5-target-5a-economic-resources.md](../sources/un-sdg5-target-5a-economic-resources.md) | UN — official SDG 5 targets 5.a and 5.1 |
+| [aauw-causes-report-2025.md](../sources/aauw-causes-report-2025.md) | AAUW — named root causes and a fourth, disagreeing set of overall figures |

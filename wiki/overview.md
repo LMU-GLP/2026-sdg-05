@@ -26,6 +26,13 @@ sources disagree on the exact numbers but agree on the pattern: white men >
 white women > women of color, with Latina and Native American women worst
 off in both. See [Who the gap hits hardest](who-it-hits-hardest.md).
 
+The gap doesn't disappear even after controlling for job title — Payscale's
+controlled figure is 99 cents, not 100. One source names the structural
+reasons for the remaining gap: occupational segregation, part-time work
+driven by caregiving, and workplace inflexibility (insufficient paid leave
+and childcare). [AAUW causes report](../sources/aauw-causes-report-2025.md)
+See [Root causes](root-causes.md).
+
 Two solutions already exist and are running today: AAUW's
 [Work Smart](../sources/aauw-work-smart-program.md) program, which has
 trained 190,000+ women in salary negotiation, and a state-by-state
@@ -47,16 +54,17 @@ introduced repeatedly since at least 2019 and still has not passed. See
    wages at all** — it's about land, property, and inheritance rights.
    [UN SDG 5, Target 5.a](../sources/un-sdg5-target-5a-economic-resources.md)
    See [Where this fits SDG 5](sdg5-fit.md).
-3. **No source in this wiki yet explains *why* the controlled gap (same
-   job, same qualifications) isn't zero** — Payscale's controlled figures
-   (0.92–1.01) show discrimination isn't the whole story, but nothing here
-   yet explains the remaining causes in depth (negotiation, motherhood
-   penalty, occupational segregation are named in search results but not
-   yet backed by a source file in this wiki).
+3. **Causes are named but not detailed.** [Root causes](root-causes.md)
+   names occupational segregation, part-time/caregiving work, and workplace
+   inflexibility, but no source in this wiki yet explains any one of these in
+   depth (e.g., exactly how much of the gap each cause accounts for), and the
+   five "proposed solutions" named alongside them have no program or bill
+   behind them yet.
 
 ## Pages in this wiki
 
 - [US pay gap: the numbers](us-pay-gap-numbers.md)
 - [Who the gap hits hardest](who-it-hits-hardest.md)
+- [Root causes](root-causes.md)
 - [Existing solutions](existing-solutions.md)
 - [Where this fits SDG 5](sdg5-fit.md)
