@@ -55,5 +55,12 @@ for at least seven years. A new solution has room to work in either lane:
 help more individuals directly, or push transparency into more states/employers,
 rather than waiting on federal action.
 
+These are solutions to pay-*setting* practices — negotiation and
+transparency — not to the three structural causes (occupational
+segregation, caregiving, workplace inflexibility). For cause-specific
+complements, see [Policy report: complementary
+solutions](policy-report.md), which proposes a different direction for each
+cause rather than the negotiation/transparency lane above.
+
 See also: [US pay gap: the numbers](us-pay-gap-numbers.md),
 [Root causes](root-causes.md).

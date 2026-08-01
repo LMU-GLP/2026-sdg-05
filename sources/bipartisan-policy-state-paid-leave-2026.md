@@ -19,6 +19,13 @@
   effective 2028/2029).
 - Of the 24 programs, 22 have been implemented; the rest are not yet active.
 
+**Data quality note:** the source's own lists don't reconcile with its
+totals — the "14 mandatory" list names 14 states *and* separately appends
+"plus DC" (15 named jurisdictions for a stated 14), and the "10 voluntary"
+list names only 9 states. Figures above are quoted exactly as the source
+states them; this discrepancy is flagged, not corrected, since no state name
+is confirmed missing or extra.
+
 ## Summary
 
 Paid family leave in the US is a 20-plus-year-old state-by-state patchwork,

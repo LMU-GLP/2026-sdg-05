@@ -121,7 +121,12 @@ being proposed federally.
 | Cause | Strongest existing policy | Its limit | Proposed complement direction |
 |---|---|---|---|
 | Occupational segregation | Title IX (education access) | No program targets the *labor market* outcome, only education | Upstream field-entry incentives, not yet designed |
-| Caregiving / motherhood penalty | State paid leave (24 states+DC) + 2026 federal grant bill | ~26 states still have no mandatory law; federal bill funds states, doesn't mandate | Pair federal grants with targeted advocacy in zero-coverage states |
+| Caregiving / motherhood penalty | State paid leave (24 states+DC) + 2026 federal grant bill | ~36 states still have no *mandatory* law (26 have no law of any kind, mandatory or voluntary); federal bill funds states, doesn't mandate | Pair federal grants with targeted advocacy in the 26 zero-coverage states |
 | Workplace inflexibility | PWFA (federal, pregnancy-linked) | Doesn't cover ongoing caregiving past infancy | Federal right-to-request law modeled on SF's caregiver-status test |
+
+**How this relates to existing solutions:** [Existing solutions](existing-solutions.md)
+covers negotiation training and pay transparency — solutions to pay-*setting*
+practices. The three complements above are a different lane: they target the
+structural causes those pay-setting solutions don't touch.
 
 See also: [Root causes](root-causes.md), [Existing solutions](existing-solutions.md).

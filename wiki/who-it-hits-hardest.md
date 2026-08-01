@@ -1,9 +1,12 @@
 # Who the pay gap hits hardest
 
-Three sources in this wiki have race/ethnicity breakdowns. All three agree
-on the ordering — white men earn most, then white women, then women of
-color, with Latina and Native American women worst off — but they disagree
-on the exact cents, so all three are kept here rather than merged.
+Four sources in this wiki have race/ethnicity breakdowns. Three of them
+(Payscale, National Partnership, AAUW's causes report) compare against a
+white-men baseline and agree on the ordering — white men earn most, then
+white women, then women of color, with Latina and Native American women
+worst off — but disagree on the exact cents, so all three are kept here
+rather than merged. The fourth (BLS) uses a different baseline entirely —
+see below.
 
 ## Payscale 2026 (uncontrolled, relative to white men)
 
@@ -38,6 +41,24 @@ on the exact cents, so all three are kept here rather than merged.
 | Latina women | — | 51 cents |
 
 [AAUW causes report](../sources/aauw-causes-report-2025.md)
+
+## BLS, Q2 2026 (official government data) — a different baseline entirely
+
+| Group | Figure |
+|---|---|
+| White women | 81.6% of white men's earnings |
+| Black women | 91.0% of Black men's earnings |
+| Asian women | 78.3% of Asian men's earnings |
+| Hispanic women | 83.5% of Hispanic men's earnings |
+
+[BLS](../sources/bls-womens-earnings-2026.md)
+
+**This table looks like it contradicts the other two — it doesn't.** BLS
+compares each race's women to men *of that same race* (e.g., Black women vs.
+Black men), not to white men, which is the baseline every other race
+breakdown in this wiki uses. That's why Black women appear at 91.0% here but
+63–78 cents in the tables above — different comparison group, not a
+disagreement about the underlying gap.
 
 **Why these don't match:** different baseline years, different survey
 methods, and Payscale controls for job title/seniority in one of its two

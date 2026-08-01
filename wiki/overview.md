@@ -8,14 +8,19 @@ the problem, not the confidence/leadership side.
 ## What the evidence says so far
 
 The size of the US gender pay gap depends entirely on which workers and which
-year you count. [AAUW](../sources/aauw-simple-truth-pay-gap.md) puts
-full-time workers at **81 cents** on the dollar; [Payscale's 2026
-report](../sources/payscale-2026-gender-pay-gap-report.md) puts the
-uncontrolled gap at **82 cents**; [National Partnership for Women &
-Families](../sources/national-partnership-wage-gap-2026.md) counts *all*
-workers, including part-time, and gets **76 cents**. These sources disagree
-because they measure different populations — see
-[US pay gap: the numbers](us-pay-gap-numbers.md) for all three side by side.
+year you count. Five sources in this wiki each give a different overall
+figure, from **81 cents** (AAUW's *Simple Truth* report, full-time workers)
+to **83 cents** (AAUW's own separate 2025 causes report), **82 cents**
+(Payscale 2026, uncontrolled) and **82.0%** (BLS's official Q2 2026 ratio,
+which lines up with Payscale's), down to **75–76 cents** when counting all
+workers including part-time (AAUW's causes report and National Partnership).
+These sources disagree because they measure different populations — see
+[US pay gap: the numbers](us-pay-gap-numbers.md) for all five side by side.
+[AAUW, Simple Truth](../sources/aauw-simple-truth-pay-gap.md),
+[AAUW, causes report](../sources/aauw-causes-report-2025.md),
+[Payscale 2026](../sources/payscale-2026-gender-pay-gap-report.md),
+[BLS](../sources/bls-womens-earnings-2026.md),
+[National Partnership](../sources/national-partnership-wage-gap-2026.md)
 
 The gap is far worse for women of color. Payscale's uncontrolled figures:
 Black women **78 cents**, Hispanic women **79 cents**, American Indian/Alaska
@@ -54,12 +59,11 @@ introduced repeatedly since at least 2019 and still has not passed. See
    wages at all** — it's about land, property, and inheritance rights.
    [UN SDG 5, Target 5.a](../sources/un-sdg5-target-5a-economic-resources.md)
    See [Where this fits SDG 5](sdg5-fit.md).
-3. **Causes are named but not detailed.** [Root causes](root-causes.md)
-   names occupational segregation, part-time/caregiving work, and workplace
-   inflexibility, but no source in this wiki yet explains any one of these in
-   depth (e.g., exactly how much of the gap each cause accounts for), and the
-   five "proposed solutions" named alongside them have no program or bill
-   behind them yet.
+3. **Causes have a policy history now, but no source quantifies how much of
+   the gap each one accounts for.** [Policy report](policy-report.md) covers
+   past and present US policy for each of the three causes named in
+   [Root causes](root-causes.md), and proposes a complement for each — but
+   that's this team's own reasoning, not a sourced program design.
 
 ## Pages in this wiki
 
@@ -67,4 +71,6 @@ introduced repeatedly since at least 2019 and still has not passed. See
 - [Who the gap hits hardest](who-it-hits-hardest.md)
 - [Root causes](root-causes.md)
 - [Existing solutions](existing-solutions.md)
+- [Policy report: complementary solutions](policy-report.md)
 - [Where this fits SDG 5](sdg5-fit.md)
+- [Problem statement](problem-statement.md)

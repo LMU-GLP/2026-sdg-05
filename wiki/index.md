@@ -17,6 +17,7 @@ Start with [Overview](overview.md).
 | [Existing solutions](existing-solutions.md) | What's already running (a training program, state transparency laws), what's stalled (federal law), and what's just a named wish-list |
 | [Policy report: complementary solutions](policy-report.md) | Past and present US policy for each root cause, and a proposed complement for each |
 | [Where this fits SDG 5](sdg5-fit.md) | Why the UN's own Target 5.a doesn't measure pay, and which target actually fits |
+| [Problem statement](problem-statement.md) | The team's committed problem statement, cited from every page above |
 
 ## Sources this wiki is built from
 
