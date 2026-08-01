@@ -37,4 +37,8 @@ Start with [Overview](overview.md).
 | [mitsloan-fmla-womens-careers.md](../sources/mitsloan-fmla-womens-careers.md) | MIT Sloan — FMLA's effect on women's management representation |
 | [time-blair-family-leave-wage-convergence.md](../sources/time-blair-family-leave-wage-convergence.md) | TIME/Blair (NBER) — family leave mandates and slowed wage convergence |
 | [ifstudies-parental-leave-wage-convergence.md](../sources/ifstudies-parental-leave-wage-convergence.md) | Institute for Family Studies — independent check on FMLA/wage convergence figures |
+| [dol-wanto-apprenticeship-program.md](../sources/dol-wanto-apprenticeship-program.md) | DOL Women's Bureau — WANTO grant program (women into higher-paying trades) |
+| [dol-wb-2021-women-apprenticeships-12-percent.md](../sources/dol-wb-2021-women-apprenticeships-12-percent.md) | DOL, 2021 — women are 12% of Registered Apprentices |
+| [aauw-title-ix.md](../sources/aauw-title-ix.md) | AAUW — Title IX and the 2017 finding that top-paying majors stay male-dominated |
+| [kaplanpathways-title-ix-law-medical-degrees.md](../sources/kaplanpathways-title-ix-law-medical-degrees.md) | Kaplan Pathways — Title IX's effect on women's share of law/medical degrees |
 | [un-sdg5-target-5a-economic-resources.md](../sources/un-sdg5-target-5a-economic-resources.md) | UN — official SDG 5 targets 5.a and 5.1 |

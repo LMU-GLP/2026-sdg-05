@@ -78,23 +78,61 @@ and where does the evidence point for a new solution.
 
 ### 1. Policies implemented
 
-**No source in this wiki documents a US policy implemented specifically to
-address occupational segregation** (e.g., moving women into higher-paying,
-male-dominated fields). The one source that names this cause,
-[AAUW's causes report](../sources/aauw-causes-report-2025.md), describes the
-problem but does not name or evaluate a specific policy response.
+| Policy | Level | Year | What it does |
+|---|---|---|---|
+| Title IX | Federal | 1972 | Bans sex discrimination in any education program receiving federal funds — not pay-focused, but opened access to degree programs that had capped women's enrollment |
+| Women in Apprenticeship and Nontraditional Occupations (WANTO) Act | Federal | 1992 | Funds grants to recruit, train, and retain women in higher-paying trades (construction, manufacturing, transportation) that require only a high-school diploma |
 
-### 2–4. Impact / why it persists / supplement
+### 2. Measured impact
 
-Not answerable from sourced material yet. Per this wiki's rule against
-supplying unsourced figures, this section stays a flagged gap rather than a
-guess. Candidate US policies that would need their own source files before
-they could be written up here: Title IX's effect on women's entry into STEM
-and professional fields, the Women in Apprenticeship and Nontraditional
-Occupations (WANTO) Act, or federal-contractor affirmative-action rules
-(Executive Order 11246). None of these has been verified against a primary
-source for this wiki yet — say so rather than filling the gap with a plausible
-guess.
+- **Title IX — sharp gains in law and medicine, little movement in the
+  highest-paying majors overall.** In 1972, "women earned only 7% of all law
+  degrees and 9% of all medical degrees; they now earn nearly half of all
+  degrees in both areas." [Kaplan Pathways](../sources/kaplanpathways-title-ix-law-medical-degrees.md)
+  But a 2017 study found "men dominate 9 of the 10 college majors that lead
+  to the highest-paying jobs, all 10 of which are in STEM fields," while women
+  dominate the lowest-paying majors. [AAUW](../sources/aauw-title-ix.md) Title
+  IX's effect on occupational segregation is real but highly field-specific —
+  it moved law and medicine, not STEM/computer science/engineering.
+- **WANTO — the program still funds, but the representation gap is barely
+  moved.** As of a 2021 DOL announcement, nearly 30 years after WANTO first
+  funded exactly this goal: "women make up nearly half of the U.S. labor
+  force" but "comprise only 12 percent of Registered Apprentices."
+  [DOL, 2021](../sources/dol-wb-2021-women-apprenticeships-12-percent.md) DOL
+  continues to fund WANTO grants (nearly $31 million since 2017) aimed at the
+  same target. [DOL Women's Bureau](../sources/dol-wanto-apprenticeship-program.md)
+
+### 3. Why the gap persists anyway
+
+- **Title IX only reaches fields it can act on through education access** —
+  it opened admissions in law and medical schools that had explicit
+  enrollment caps on women, but STEM undergraduate majors were never subject
+  to that kind of formal cap, so the same lever didn't move them the same way.
+  [AAUW](../sources/aauw-title-ix.md)
+- **WANTO is outreach funding, not a mandate.** It funds grants to
+  organizations that recruit and retain women in apprenticeships; it does not
+  require employers or unions to hire or admit women at any rate. Twelve
+  percent representation after nearly three decades of funding suggests
+  voluntary outreach alone hasn't been sufficient to shift entrenched
+  male-dominated hiring pipelines in the trades.
+  [DOL, 2021](../sources/dol-wb-2021-women-apprenticeships-12-percent.md)
+- This connects to Cause 1: teaching, nursing, and support-services jobs are
+  also the flexible, lower-"greedy work"-premium jobs — the same caregiving/
+  flexibility trade-off in [Goldin's research](../sources/goldin-career-and-family-greedy-work.md)
+  helps explain why women concentrate there in the first place.
+
+### 4. Where the evidence points for a supplement
+
+- **Extend Title IX's actual working mechanism (access/quota removal) to
+  fields it hasn't reached**, rather than more outreach funding alone — WANTO's
+  12%-after-almost-30-years result suggests grants without any admission- or
+  hiring-side requirement move the needle very slowly.
+- **Pair apprenticeship outreach (WANTO's model) with the Cause-1 fixes
+  above** — since recruitment alone hasn't moved the 12% figure much,
+  outreach likely needs to be paired with the paid-leave/childcare direction
+  from Cause 1 rather than proposed as a standalone fix. No source in this
+  wiki yet documents *why* retention specifically fails in apprenticeships —
+  flagged here as an open question rather than asserted.
 
 ## Cause 3: Unconscious bias (in pay-setting)
 
