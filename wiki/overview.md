@@ -36,6 +36,16 @@ fix that would apply everywhere, the
 introduced repeatedly since at least 2019 and still has not passed. See
 [Existing solutions](existing-solutions.md).
 
+Zooming out further back: the Equal Pay Act of 1963, the Lilly Ledbetter Fair
+Pay Act of 2009, the unpaid federal FMLA (1993), state Paid Family Leave
+(California first, 2004), and state salary history bans have all been tried.
+Each moved a real number — the full-time gap did narrow from 59 cents in 1963
+to 84 cents by 2021 — but each also has documented limits: FMLA-style leave
+mandates are linked to *slower* wage convergence because women still take
+roughly 4x the leave days men do, which research ties to employer statistical
+discrimination. See [US policy track record](policy-track-record.md) for the
+full list, the impact of each, and why the gap remains despite all of them.
+
 ## The gaps, plainly
 
 1. **No single number is "the" US pay gap.** Every figure in this wiki
@@ -47,16 +57,16 @@ introduced repeatedly since at least 2019 and still has not passed. See
    wages at all** — it's about land, property, and inheritance rights.
    [UN SDG 5, Target 5.a](../sources/un-sdg5-target-5a-economic-resources.md)
    See [Where this fits SDG 5](sdg5-fit.md).
-3. **No source in this wiki yet explains *why* the controlled gap (same
-   job, same qualifications) isn't zero** — Payscale's controlled figures
-   (0.92–1.01) show discrimination isn't the whole story, but nothing here
-   yet explains the remaining causes in depth (negotiation, motherhood
-   penalty, occupational segregation are named in search results but not
-   yet backed by a source file in this wiki).
+3. **Why the controlled gap (same job, same qualifications) isn't zero** is
+   now backed by a source: Claudia Goldin's research on "greedy work" ties it
+   to unequal caregiving load translating into unequal hours and unequal
+   leave-taking, not direct discrimination. See
+   [US policy track record](policy-track-record.md), section 3.
 
 ## Pages in this wiki
 
 - [US pay gap: the numbers](us-pay-gap-numbers.md)
 - [Who the gap hits hardest](who-it-hits-hardest.md)
 - [Existing solutions](existing-solutions.md)
+- [US policy track record](policy-track-record.md)
 - [Where this fits SDG 5](sdg5-fit.md)
